@@ -1,7 +1,6 @@
 # From N-grams to Transformers: Language Modeling on Shakespeare
 
-Building GPT from Scratch (SoSe 2025) — Final Project  
-Instructor: Prof. Dr. Elia Bruni | Student: Buse Taş (1006526) / Group 37  
+Building GPT from Scratch 
 Universität Osnabrück — Institute of Cognitive Science
 
 ## Table of Contents
