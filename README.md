@@ -1,4 +1,4 @@
-# From N-grams to Transformers: Language Modeling on Shakespeare
+# From N-grams to Transformers
 
 Building GPT from Scratch 
 Universität Osnabrück — Institute of Cognitive Science
